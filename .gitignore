@@ -9,4 +9,3 @@ venv/
 *.pt
 *.pth
 *.ckpt
-*.mp3
