@@ -1,0 +1,12 @@
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.pt
+*.pth
+*.ckpt
+*.mp3
